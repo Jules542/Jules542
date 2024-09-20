@@ -1,16 +1,22 @@
-## Hi there 👋
+# **Hello World!**
+## 3rd year of study in Development 🖥️
+## Currently at SupDeVinci (Paris)
 
-<!--
-**Jules542/Jules542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Development Stack
+
+- **Front-End**: HTML/CSS, JavaScript, TypeScript, React.js, SCSS
+- **Back-end**: Symfony, PHP, Node.js, Express.js, API REST, MySQL, SQL Server, C#, Python
+- **Tools**: Git, GitHub, VSCode, Figma
+
+## 📚 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jules542&layout=compact&theme=default)
+
+## 📞 Contact
+
+- *Email* : ribeirojules78@gmail.com
+- *LinkedIn* : https://www.linkedin.com/in/jules-ribeiro-ba9813264/
+- *Portfolio* : https://julesribeiro.nexgate.ch
