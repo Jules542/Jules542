@@ -1,13 +1,14 @@
 # **Hello World!**
 ## 3rd year of study in Development 🖥️
-## Currently at SupDeVinci (Paris)
+## BTS SIO (SLAM) obtained in July 2024
+## Currently at Sup De Vinci (Paris)
 
 ---
 
 
 ## 🔧 Development Stack
 
-- **Front-End**: HTML/CSS, JavaScript, TypeScript, React.js, SCSS
+- **Front-end**: HTML/CSS, JavaScript, TypeScript, React.js, SCSS
 - **Back-end**: Symfony, PHP, Node.js, Express.js, API REST, MySQL, SQL Server, C#, Python
 - **Tools**: Git, GitHub, VSCode, Figma
 
