@@ -20,4 +20,4 @@
 
 - *Email* : ribeirojules78@gmail.com
 - *LinkedIn* : https://www.linkedin.com/in/jules-ribeiro-ba9813264/
-- *Portfolio* : https://julesribeiro.nexgate.ch
+- *Portfolio* : https://jules-ribeiro.vercel.app
